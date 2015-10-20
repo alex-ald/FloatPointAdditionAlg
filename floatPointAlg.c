@@ -2,9 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-// Alex Aldana
-// Assignment5
-// 10/16/2015
+// Author: Alex Aldana
 
 const int NSIGN = 1;
 const int NEXPONENT = 8;
